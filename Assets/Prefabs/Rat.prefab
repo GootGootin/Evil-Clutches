@@ -176,8 +176,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d237c916d6ca705479fa78cee271dd24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RatMove
-  speed: 6
-  points: 100
+  speed: 5
+  points: 200
 --- !u!50 &4310303398805986447
 Rigidbody2D:
   serializedVersion: 5

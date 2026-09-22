@@ -131,7 +131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ProjectileMove
   speed: 6
-  points: 100
+  points: -100
 --- !u!61 &7136159005371710095
 BoxCollider2D:
   m_ObjectHideFlags: 0
