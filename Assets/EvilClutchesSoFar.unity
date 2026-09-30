@@ -762,6 +762,7 @@ MonoBehaviour:
   goingUp: 1
   rat: {fileID: 1353101002385500830, guid: be773268a8c19c646902e60f3455a151, type: 3}
   fireball: {fileID: 2904433619158147679, guid: 4e1cbac445da1be4aa186dfdeb4e823a, type: 3}
+  heart: {fileID: 4492110626908050030, guid: b4cefcc39770390479539c1a6e7c24d0, type: 3}
 --- !u!212 &1607555144
 SpriteRenderer:
   serializedVersion: 3
@@ -895,7 +896,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -839.7, y: 558.8}
+  m_AnchoredPosition: {x: -833, y: 559}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1984686893
